@@ -3,7 +3,7 @@ var posts = require('../../helpers/posts.js');
 var body , respone
 var post_id = 2
 var user_id = 1
-var title = "qui est esse"
+var title = "qui est"
 var no_post_id = 1004;
 
 describe("Get posts", function(){
@@ -40,7 +40,7 @@ describe("Get posts", function(){
         })
 
         it("should return the correct title for the post", function(done){
-            expect(body.title).to.equal(title)
+            expect(body.title).to.include(title)
             done();
         })
 
