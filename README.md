@@ -12,6 +12,6 @@ NOTE : Here Posts is an endpoint and has no relation to the HTTP method post
 #### To run all the tests please run "npm test" from the Assignment folder(downloded/cloned folder)or test folder from your CLI
 #### Copy the remote HTML path and open it in the browser to see the report
 
-###Report
-#### Can be assesed at "path to downloaded folder"\mochawesome-report\mochawesome.json
+### Report
+#### Can be assesed at "path to downloaded folder"\mochawesome-report\mochawesome.html 
 
