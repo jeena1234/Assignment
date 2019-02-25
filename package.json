@@ -1,0 +1,31 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha \"test/*/*.js\" --reporter mochawesome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeena1234/assignment.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Jeewan Jinta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeena1234/assignment/issues"
+  },
+  "homepage": "https://github.com/jeena1234/assignment#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.1",
+    "should": "^13.2.3"
+  },
+  "devDependencies": {
+    "mochawesome": "^3.1.1",
+    "supertest": "^3.4.2"
+  }
+}
