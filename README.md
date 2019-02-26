@@ -13,5 +13,5 @@ NOTE : Here Posts is an endpoint and has no relation to the HTTP method post
 #### Copy the remote HTML path and open it in the browser to see the report
 
 ### Report
-#### Can be assesed at "path to downloaded folder"\mochawesome-report\mochawesome.html 
+#### Report can be accessed at "path to downloaded folder"\mochawesome-report\mochawesome.html 
 
